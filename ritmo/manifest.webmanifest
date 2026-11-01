@@ -1,0 +1,19 @@
+{
+  "name": "Ritmo | Diário de Vitalidade",
+  "short_name": "Ritmo",
+  "description": "Diário privado de hábitos, hidratação, nutrição e vitalidade.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101313",
+  "theme_color": "#141617",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
